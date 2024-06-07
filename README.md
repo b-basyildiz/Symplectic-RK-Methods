@@ -19,7 +19,7 @@ $$
 \end{align*}
 $$
 
-Note that all symplectic methods are implicit, and thus we must solve for $k_1, k_2$ in a similar method to the Second Order Störmer-Verlet Method such that 
+Note that all symplectic methods are implicit, and thus we must solve for $k_1, k_2$ such that 
 
 $$
 \begin{align*}
